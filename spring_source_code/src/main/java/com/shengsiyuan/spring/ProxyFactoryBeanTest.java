@@ -13,6 +13,8 @@ public class ProxyFactoryBeanTest {
 
     public static void main(String[] args) {
         ProxyFactoryBean proxyFactoryBean;
+
+        //getSingletonInstance
         AopProxy aopProxy;
 
 

@@ -9,8 +9,4 @@
         <property name="name" value="张三"/>
         <property name="age" value="20"/>
     </bean>
-    <bean id="student" class="com.shengsiyuan.bean.Student">
-        <property name="name" value="李四"/>
-        <property name="age" value="30"/>
-    </bean>
 </beans>
